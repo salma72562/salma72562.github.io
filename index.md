@@ -12,7 +12,6 @@
 •	encryption/decryption, cryptocurrencies, Bitcoin, FinTech
 In summary, I am passionate about programming, data, and business strategy. I am currently actively seeking opportunities where I can utilize my technical skills to dig into data and extract insights to drive value-added decision making for business entities.]
 
----
 
 ### Analytics 
 
@@ -33,4 +32,4 @@ In summary, I am passionate about programming, data, and business strategy. I am
 
 [Target's Gender Neutral Efforts Towards Children](http://example.com/)
 
----
+
