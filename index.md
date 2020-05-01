@@ -10,26 +10,25 @@ I have always been passionate about programming, data, and business strategy. In
 *	how to perform text analytics, predictive modeling, a/b testing analysis, and exploratory analytics.
 *	what is Big Data, HDFS, Hive, Pig, Hadoop, Spark, Sqooq, Flume, IoT, OLAP, OLTP.
 *	pricing policies and pricing analytics to determine Nash equilibrium price.
-*	encryption/decryption, cryptocurrencies, Bitcoin, FinTech. <br>
-<br>
+*	encryption/decryption, cryptocurrencies, Bitcoin, FinTech.
+<br><br>
 In summary, I am passionate about programming, data, and business strategy. I am currently actively seeking opportunities where I can utilize my technical skills to dig into data and extract insights to drive value-added decision making for business entities.
 
 
 ### Analytics 
 
-[Seneca Park Zoo Society Practicum](/sample_page)
-<src="Data Cleaning Process.py?raw=true"/>
-<src="Final Presentation.pdf?raw=true"/>
+[Seneca Park Zoo Society Practicum](/PDFs/Seneca Park Zoo.pdf)
+(/Code/Seneca Park Zoo Database.sql)
 
 ---
-[Horse Toy Product Launch Conjoint Analysis](/pdf/sample_presentation.pdf)
+[Horse Toy Product Launch Conjoint Analysis](/PDFs/Toy Horse PDF.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
 
 ### Business Strategy
 
-[Food Delivery Services Case Competition](http://example.com/)
+[Food Delivery Services Case Competition](/PDFs/GRUBHUB Slides.pdf)
 
 ---
 
