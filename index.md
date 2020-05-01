@@ -14,15 +14,23 @@ I have always been passionate about programming, data, and business strategy. In
 <br><br>
 In summary, I am passionate about programming, data, and business strategy. I am currently actively seeking opportunities where I can utilize my technical skills to dig into data and extract insights to drive value-added decision making for business entities.
 
-
+_Please click on project title to view PowerPoint presentation._
 ### Analytics 
 
-[Seneca Park Zoo Society Practicum](/PDFs/Seneca Park Zoo.pdf)
-(/Code/Seneca Park Zoo Database.sql)
+#### #1 - [Seneca Park Zoo Society Practicum](/PDFs/Seneca Park Zoo PDF.pdf)
+1. Researched third party data aimed at engaging tree donors to increase reforestation efforts in Madgascar. 
+1. Found data regarding demographic, geolocational, disaster, and lemurs in Madgascar.
+1. Analyzed lemur data and visualized key exploratory trends found in data.
+1. Analyzed tree plantation data provided by client and merged key findings with lemur information.
 
+##### Deliverables
+* [PowerPoint](/PDFs/Seneca Park Zoo PDF.pdf)
+* Code to manipulate 3rd party lemur datasets to output a file ready for analysis.
+* SQL code to create a database modeled in the following ERD.
+<img src="ERD.png?raw=true"/>
 ---
 [Horse Toy Product Launch Conjoint Analysis](/PDFs/Toy Horse PDF.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 
 
