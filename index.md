@@ -18,7 +18,8 @@ In summary, I am passionate about programming, data, and business strategy. I am
 ### Analytics 
 
 [Seneca Park Zoo Society Practicum](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<src="Data Cleaning Process.py?raw=true"/>
+<src="Final Presentation.pdf?raw=true"/>
 
 ---
 [Horse Toy Product Launch Conjoint Analysis](/pdf/sample_presentation.pdf)
