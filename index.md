@@ -11,6 +11,7 @@ I have always been passionate about programming, data, and business strategy. In
 *	what is Big Data, HDFS, Hive, Pig, Hadoop, Spark, Sqooq, Flume, IoT, OLAP, OLTP.
 *	pricing policies and pricing analytics to determine Nash equilibrium price.
 *	encryption/decryption, cryptocurrencies, Bitcoin, FinTech. <br>
+<br>
 In summary, I am passionate about programming, data, and business strategy. I am currently actively seeking opportunities where I can utilize my technical skills to dig into data and extract insights to drive value-added decision making for business entities.
 
 
